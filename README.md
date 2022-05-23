@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Franz Argandoña and i'm a software ingegnere</h1>
+<h1 align="center">Hi 👋, I'm Franz Argandoña and i'm a software developer</h1>
 <h3 align="center">my knowledge is in the development of interactive and user-friendly web pages using HTML, Css and Js, in my free time I like to learn other languages such as Node.js</h3>
 
 - 🌱 I’m currently learning **Node.js, Typescript**
